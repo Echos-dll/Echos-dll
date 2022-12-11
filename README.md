@@ -2,11 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=2500&pause=1000&color=FFC03D&background=5670FF00&center=true&vCenter=true&height=100&lines=Unity+Game+Developer;Software+Engineer;Competitive+Gamer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
-<h3 align="center">TestGame developer with a passion for software architecture, maintainability and design. Capable of making and publishing mobile games from scratch in Unity. Love to build tools to make lives easier.</h3>
+<h3 align="center">Game developer with a passion for software architecture, maintainability and design. Capable of making and publishing mobile games from scratch in Unity. Love to build tools to make lives easier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echos-dll&label=Profile%20views&color=0e75b6&style=flat" alt="echos-dll" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echos-dll" alt="echos-dll" /></a> </p>
 
 - 🔭 I’m currently working on **mobile games.**
 
