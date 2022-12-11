@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=2500&pause=1000&color=FFC03D&background=5670FF00&center=true&vCenter=true&height=100&lines=Unity+Game+Developer;Software+Engineer;Competitive+Gamer)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=2500&pause=1000&color=FFC03D&background=5670FF00&center=true&vCenter=true&height=100&lines=Unity+Game+Developer;Software+Engineer;Competitive+Gamer)](https://git.io/typing-svg)
 
 <!--
 **Echos-dll/Echos-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
