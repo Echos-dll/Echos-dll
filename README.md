@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ekrem İbram" /></a>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=2500&pause=1000&color=FFC03D&background=5670FF00&center=true&vCenter=true&height=100&lines=Unity+Game+Developer;Software+Engineer;Competitive+Gamer)](https://git.io/typing-svg)
 
 <!--
