@@ -6,8 +6,6 @@
 <h1 align="center">Hello there 🙃, I'm Ekrem</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design. I'm capable of making and publishing mobile games from scratch in Unity. I love to build tools to make lives easier. I also have passion for game design and visiual effects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echos-dll&label=Profile%20views&color=0e75b6&style=flat" alt="echos-dll" /> </p>
-
 - 🔭 I’m currently working on **Mobile Games.**
 
 - 🌱 I’m currently learning **Shaders and Fusion.**
@@ -45,3 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echos-dll&show_icons=true&locale=en" alt="echos-dll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echos-dll&" alt="echos-dll" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=echos-dll&label=Profile%20views&color=0e75b6&style=flat" alt="echos-dll" /> </p>
+
