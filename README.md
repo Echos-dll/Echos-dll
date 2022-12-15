@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Mobile Games.**
 
-- 🌱 I’m currently learning **Shaders and Fusion**
+- 🌱 I’m currently learning **Shaders and Fusion.**
 
 - 📫 How to reach me **ekremibram@outlook.com**
 
