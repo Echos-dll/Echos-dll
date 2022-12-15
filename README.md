@@ -14,6 +14,23 @@
 
 - 📫 How to reach me **ekremibram@outlook.com**
 
+<h1 align="left">Assets I have experienced</h1>
+
+- DOTween
+- Cinemachine
+- Toony Colors Pro
+- Odin Inspector
+- More Mountains
+- Text Mesh Pro
+- SRDebugger
+
+<h1 align="left">Things I love to make & use in Unity</h1>
+
+- Scriptable Objects
+- Editor Scripting
+- Custom Inspector
+- Custom Editor Tools
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ekremibram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekremibram" height="30" width="40" /></a>
@@ -28,18 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echos-dll&show_icons=true&locale=en" alt="echos-dll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echos-dll&" alt="echos-dll" /></p>
-
-<!--
-**Echos-dll/Echos-dll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
