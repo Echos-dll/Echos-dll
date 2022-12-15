@@ -27,7 +27,7 @@
 <h1 align="left">Things I love to make & use in Unity</h1>
 
 - Scriptable Objects
-- Editor Scripting
+- VFX
 - Custom Inspector
 - Custom Editor Tools
 
