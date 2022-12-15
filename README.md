@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echos-dll&label=Profile%20views&color=0e75b6&style=flat" alt="echos-dll" /> </p>
 
-- 🔭 I’m currently working on **mobile games.**
+- 🔭 I’m currently working on **Mobile Games.**
 
-- 🌱 I’m currently learning **shaders.**
+- 🌱 I’m currently learning **Shaders and Fusion**
 
 - 📫 How to reach me **ekremibram@outlook.com**
 
