@@ -18,6 +18,7 @@
 - Cinemachine
 - Toony Colors Pro
 - Odin Inspector
+- Photon
 - More Mountains
 - Text Mesh Pro
 - SRDebugger
