@@ -6,7 +6,7 @@
 <h1 align="center">Hello there 🙃, I'm Ekrem</h1>
 <h3 align="center">I'm a game developer with a passion for software architecture, maintainability and design. I'm capable of making and publishing mobile games from scratch in Unity. I love to build tools to make lives easier. I also have passion for game design and visiual effects.</h3>
 
-- 🔭 I’m currently working on **Mobile Games.**
+- 🔭 I’m currently working on **my indie game.**
 
 - 🌱 I’m currently learning **Shaders and Fusion.**
 
